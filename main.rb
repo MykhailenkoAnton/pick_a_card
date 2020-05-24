@@ -17,5 +17,6 @@ number = STDIN.gets.to_i
 # Нужное число раз выкидываем из колоды последню карту
 puts
 number.times do
+25
   puts deck.pop_a_card
 end
