@@ -1,5 +1,5 @@
 # encoding: utf-8
-
+11
 # Подключаем класс колоды
 require_relative 'lib/deck'
 
